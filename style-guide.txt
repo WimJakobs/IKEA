@@ -9,12 +9,12 @@ The designs were created to the following widths:
 
 ## Colors
 
-- #000000          [ged]
-- #f2f2f2          [ged]
-- #cccccc          [ged]
-- #dfdfdf          [ged]
-- #484848          [ged]
-- #0058a3          [ged]
+- #000000        
+- #f2f2f2          
+- #cccccc          
+- #dfdfdf          
+- #484848          
+- #0058a3          
 
 ## Typography
 
