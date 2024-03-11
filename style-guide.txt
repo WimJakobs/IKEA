@@ -20,10 +20,10 @@ The designs were created to the following widths:
 
 ### Body Copy
 
-- Font size: 18px                                                   [ged]
+- Font size: 18px                                                   
 
 ### Font
 
-- Family: [Roboto] (https://fonts.google.com/specimen/Roboto)       [ged]
-- Weights: 400, 500, 900					    [ged]
+- Family: [Roboto] (https://fonts.google.com/specimen/Roboto)       
+- Weights: 400, 500, 900
 
